@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
-<h3 align="center">A passionate frontend developer from IndiaA hard-working, Detail-oriented, methodical professional and self-motivated Mobile Application Developer. Worked as an Application Developer with vast experience in continuously developing, implementing and adopting new technologies to maximize development efficiency and innovate applications; skills involve design, develop, implement and enhance highly optimized cross-platform hybrid mobile apps and methods to meet both internal and external analysis requirements.</h3>
+<h3 align="center">A hard-working, Detail-oriented, methodical professional and self-motivated Mobile Application Developer. Worked as an Application Developer with vast experience in continuously developing, implementing and adopting new technologies to maximize development efficiency and innovate applications; skills involve design, develop, implement and enhance highly optimized cross-platform hybrid mobile apps and methods to meet both internal and external analysis requirements.</h3>
 
 - 📫 How to reach me **ziad.gemy@gmail.com**
 
