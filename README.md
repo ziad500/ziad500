@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zelblidy" target="blank"><img src="https://img.shields.io/twitter/follow/zelblidy?logo=twitter&style=for-the-badge" alt="zelblidy" /></a> </p>
 
-- 📫 How to reach me **ziad.gemy@gmail.com**
+- 📫 How to reach me **ziadelblidy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
